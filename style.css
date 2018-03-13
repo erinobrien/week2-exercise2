@@ -1,0 +1,38 @@
+body{
+	background-color: #b82229;
+	font-family: sans-serif;
+}
+
+h1{
+	color: white;
+	font-size: 4em;
+	text-align: center;
+}
+
+hr { 
+    display: block;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-width: 0.5px;
+    border-color: black;
+} 
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap
+
+}
+
+.flex-child {
+  width: 300px;
+  flex-wrap: wrap
+
+}
+
+h3{
+	font-size: 1.5em;
+}
+
+    
